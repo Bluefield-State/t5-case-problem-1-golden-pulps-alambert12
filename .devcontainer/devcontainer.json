@@ -5,7 +5,8 @@
 		"dbaeumer.vscode-eslint",
 		"esbenp.prettier-vscode",
 		"streetsidesoftware.code-spell-checker",
-		"ritwickdey.LiveServer"
+		"ritwickdey.LiveServer",
+		  "fgmnts.w3c-offline-html-validator"
       ]
     }
   },
