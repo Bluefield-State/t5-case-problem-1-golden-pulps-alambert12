@@ -60,4 +60,14 @@ article {
 	Tablet and Desktop Devices: Greater than 480 pixels
    ===================================================
 */
-
+@media  screen and (min-width: 481px) {
+   nav.horizontal ul {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      height: 40px;
+   }
+   nav.horizontal ul li {
+      
+   
+}
