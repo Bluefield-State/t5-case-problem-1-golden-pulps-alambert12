@@ -68,6 +68,20 @@ article {
       height: 40px;
    }
    nav.horizontal ul li {
-      
-   
+      flex-grow: 1;
+      flex-shrink: 1;
+      flex-basis: auto;
+   }   
+   img.panel.size1 {
+      width: 100%;
+   }
+   img.panel.size2 {
+      width: 60%;
+   }
+   img.panel.size3 {
+      width: 40%;
+   }
+   img.panel.size4 {
+      width: 30%;
+   }
 }
