@@ -44,9 +44,17 @@ article {
 	Mobile Devices: 0 - 480 pixels
    ============================================
 */
-@meida screen and 
-
-
+@media screen and (max-width: 480px) {
+   img.panel {
+      width: 100%;
+   }
+   nav.horizontal {
+      order: 99;
+   }
+   body > footer {
+      order: 100;
+   }
+}
 
 /* ===================================================
 	Tablet and Desktop Devices: Greater than 480 pixels
