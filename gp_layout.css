@@ -24,7 +24,15 @@
 
 
 /* Flex Layout Styles */
-
+body {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+}
+section#sheet {
+   flex-grow: 3;
+   flex
+}
 
 
 
